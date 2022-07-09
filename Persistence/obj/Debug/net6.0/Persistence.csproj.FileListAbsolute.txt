@@ -13,3 +13,5 @@ C:\Users\FSC\Desktop\c#\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dl
 C:\Users\FSC\Desktop\c#\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
 C:\Users\FSC\Desktop\c#\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
 C:\Users\FSC\Desktop\c#\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\FSC\Desktop\c#\Reactivities\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Users\FSC\Desktop\c#\Reactivities\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
