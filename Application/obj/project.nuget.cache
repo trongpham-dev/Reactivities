@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "J+Mk3qKvhcvjbaw+78iI/4+yslbPnVyHO2zs+zKEH3Di001YljZ4Xm1hmXc4EhpjcHpljwKAWk4oW6XMC1iRSA==",
+  "dgSpecHash": "dTIQoMjpbl6Kr4xBG0h5JleEyBhaHa/BzBFyTlz8+iHbAHeaK24A8Izoa5AhIovPWjSQoMAtg9nNB7IArQRkXg==",
   "success": true,
   "projectFilePath": "C:\\Users\\FSC\\Desktop\\c#\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FSC\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\FSC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\FSC\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\FSC\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.1.2\\fluentvalidation.aspnetcore.11.1.2.nupkg.sha512",
+    "C:\\Users\\FSC\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.0\\fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
     "C:\\Users\\FSC\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\FSC\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\FSC\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
