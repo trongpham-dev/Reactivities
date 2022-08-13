@@ -9,5 +9,7 @@ namespace Domain
         public string Category { get; set; }
         public string City { get; set; }
         public string Venue { get; set; }
+        public bool IsCancelled { get; set; }
+        public IList<ActivityAttendee> Attendees { get; set; } = new List<ActivityAttendee>();
     }
 }
